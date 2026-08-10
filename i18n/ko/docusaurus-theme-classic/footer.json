@@ -1,0 +1,18 @@
+{
+  "link.title.More": {
+    "message": "더 보기",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Original project by adavoudi": {
+    "message": "원본 프로젝트 (adavoudi)",
+    "description": "The label of footer link with label=Original project by adavoudi linking to https://github.com/adavoudi/aws-sap"
+  },
+  "link.item.label.License: CC BY 4.0": {
+    "message": "라이선스: CC BY 4.0",
+    "description": "The label of footer link with label=License: CC BY 4.0 linking to https://creativecommons.org/licenses/by/4.0/"
+  },
+  "copyright": {
+    "message": "Copyright © AWS Pro Architect Prep. <a href=\"https://github.com/adavoudi/aws-sap\">adavoudi/aws-sap</a>를 CC BY 4.0 라이선스에 따라 번역·재구성했습니다. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

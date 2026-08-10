@@ -1,0 +1,274 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Analytics": {
+    "message": "분석",
+    "description": "The label for category Analytics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Data Integration & Management": {
+    "message": "데이터 통합 및 관리",
+    "description": "The label for category Data Integration & Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Interactive Query & Batch Processing": {
+    "message": "대화형 쿼리 및 배치 처리",
+    "description": "The label for category Interactive Query & Batch Processing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Streaming Data & Real-Time Analytics": {
+    "message": "스트리밍 데이터 및 실시간 분석",
+    "description": "The label for category Streaming Data & Real-Time Analytics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Visualization & Search": {
+    "message": "시각화 및 검색",
+    "description": "The label for category Visualization & Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Application Integration": {
+    "message": "애플리케이션 통합",
+    "description": "The label for category Application Integration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.API & Workflow Integration": {
+    "message": "API 및 워크플로 통합",
+    "description": "The label for category API & Workflow Integration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Messaging & Eventing": {
+    "message": "메시징 및 이벤트 처리",
+    "description": "The label for category Messaging & Eventing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Blockchain": {
+    "message": "블록체인",
+    "description": "The label for category Blockchain in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Business Applications": {
+    "message": "비즈니스 애플리케이션",
+    "description": "The label for category Business Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Contact Center & Email": {
+    "message": "컨택 센터 및 이메일",
+    "description": "The label for category Contact Center & Email in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Voice & Collaboration": {
+    "message": "음성 및 협업",
+    "description": "The label for category Voice & Collaboration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cloud Financial Management": {
+    "message": "클라우드 재무 관리",
+    "description": "The label for category Cloud Financial Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cost Allocation & Savings": {
+    "message": "비용 할당 및 절감",
+    "description": "The label for category Cost Allocation & Savings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cost Monitoring & Budgeting": {
+    "message": "비용 모니터링 및 예산 관리",
+    "description": "The label for category Cost Monitoring & Budgeting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Compute": {
+    "message": "컴퓨팅",
+    "description": "The label for category Compute in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Scaling & Batch Processing": {
+    "message": "스케일링 및 배치 처리",
+    "description": "The label for category Scaling & Batch Processing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Serverless & Managed Compute": {
+    "message": "서버리스 및 관리형 컴퓨팅",
+    "description": "The label for category Serverless & Managed Compute in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Simplified Compute": {
+    "message": "간편 컴퓨팅",
+    "description": "The label for category Simplified Compute in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Virtual Machines & Infrastructure": {
+    "message": "가상 머신 및 인프라",
+    "description": "The label for category Virtual Machines & Infrastructure in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.EC2": {
+    "message": "EC2",
+    "description": "The label for category EC2 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Containers": {
+    "message": "컨테이너",
+    "description": "The label for category Containers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Container Orchestration": {
+    "message": "컨테이너 오케스트레이션",
+    "description": "The label for category Container Orchestration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Container Registry": {
+    "message": "컨테이너 레지스트리",
+    "description": "The label for category Container Registry in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Database": {
+    "message": "데이터베이스",
+    "description": "The label for category Database in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.NoSQL Databases": {
+    "message": "NoSQL 데이터베이스",
+    "description": "The label for category NoSQL Databases in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Relational & Data Warehouse": {
+    "message": "관계형 및 데이터 웨어하우스",
+    "description": "The label for category Relational & Data Warehouse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Specialized & In-Memory": {
+    "message": "특수 목적 및 인메모리",
+    "description": "The label for category Specialized & In-Memory in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Developer Tools": {
+    "message": "개발자 도구",
+    "description": "The label for category Developer Tools in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.CICD & Code Quality": {
+    "message": "CI/CD 및 코드 품질",
+    "description": "The label for category CICD & Code Quality in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Observability & Testing": {
+    "message": "관측성 및 테스트",
+    "description": "The label for category Observability & Testing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.End User Computing": {
+    "message": "엔드 유저 컴퓨팅",
+    "description": "The label for category End User Computing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frontend Web and Mobile": {
+    "message": "프런트엔드 웹 및 모바일",
+    "description": "The label for category Frontend Web and Mobile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.API Management": {
+    "message": "API 관리",
+    "description": "The label for category API Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Development Platforms": {
+    "message": "개발 플랫폼",
+    "description": "The label for category Development Platforms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Engagement": {
+    "message": "사용자 참여",
+    "description": "The label for category User Engagement in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Internet of Things": {
+    "message": "사물 인터넷(IoT)",
+    "description": "The label for category Internet of Things in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Machine Learning": {
+    "message": "머신 러닝",
+    "description": "The label for category Machine Learning in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Computer Vision & Document Processing": {
+    "message": "컴퓨터 비전 및 문서 처리",
+    "description": "The label for category Computer Vision & Document Processing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ML Platform": {
+    "message": "ML 플랫폼",
+    "description": "The label for category ML Platform in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Natural Language & Speech": {
+    "message": "자연어 및 음성",
+    "description": "The label for category Natural Language & Speech in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Search & Personalization": {
+    "message": "검색 및 개인화",
+    "description": "The label for category Search & Personalization in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Speech Synthesis": {
+    "message": "음성 합성",
+    "description": "The label for category Speech Synthesis in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Management and Governance": {
+    "message": "관리 및 거버넌스",
+    "description": "The label for category Management and Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Governance & Compliance": {
+    "message": "거버넌스 및 컴플라이언스",
+    "description": "The label for category Governance & Compliance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Infrastructure Automation": {
+    "message": "인프라 자동화",
+    "description": "The label for category Infrastructure Automation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Monitoring & Observability": {
+    "message": "모니터링 및 관측성",
+    "description": "The label for category Monitoring & Observability in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Operations & Optimization": {
+    "message": "운영 및 최적화",
+    "description": "The label for category Operations & Optimization in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Media Services": {
+    "message": "미디어 서비스",
+    "description": "The label for category Media Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Migration and Transfer": {
+    "message": "마이그레이션 및 전송",
+    "description": "The label for category Migration and Transfer in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.File Transfer": {
+    "message": "파일 전송",
+    "description": "The label for category File Transfer in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Migration Tools": {
+    "message": "마이그레이션 도구",
+    "description": "The label for category Migration Tools in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Physical & Offline Migration": {
+    "message": "물리적 및 오프라인 마이그레이션",
+    "description": "The label for category Physical & Offline Migration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Networking and Content Delivery": {
+    "message": "네트워킹 및 콘텐츠 전송",
+    "description": "The label for category Networking and Content Delivery in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.CDN & DNS": {
+    "message": "CDN 및 DNS",
+    "description": "The label for category CDN & DNS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hybrid Connectivity": {
+    "message": "하이브리드 연결",
+    "description": "The label for category Hybrid Connectivity in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Traffic Management": {
+    "message": "트래픽 관리",
+    "description": "The label for category Traffic Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Virtual Networking & Connectivity": {
+    "message": "가상 네트워킹 및 연결",
+    "description": "The label for category Virtual Networking & Connectivity in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security, Identity, and Compliance": {
+    "message": "보안, 자격 증명 및 컴플라이언스",
+    "description": "The label for category Security, Identity, and Compliance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Compliance & Governance": {
+    "message": "컴플라이언스 및 거버넌스",
+    "description": "The label for category Compliance & Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Data Protection & Encryption": {
+    "message": "데이터 보호 및 암호화",
+    "description": "The label for category Data Protection & Encryption in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Identity & Access Management": {
+    "message": "자격 증명 및 액세스 관리",
+    "description": "The label for category Identity & Access Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Network Security": {
+    "message": "네트워크 보안",
+    "description": "The label for category Network Security in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security Monitoring & Threat Detection": {
+    "message": "보안 모니터링 및 위협 탐지",
+    "description": "The label for category Security Monitoring & Threat Detection in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Storage": {
+    "message": "스토리지",
+    "description": "The label for category Storage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Backup & Disaster Recovery": {
+    "message": "백업 및 재해 복구",
+    "description": "The label for category Backup & Disaster Recovery in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Object, Block, & File Storage": {
+    "message": "객체, 블록 및 파일 스토리지",
+    "description": "The label for category Object, Block, & File Storage in sidebar tutorialSidebar"
+  }
+}
