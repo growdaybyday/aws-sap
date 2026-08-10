@@ -11,97 +11,97 @@ _A comprehensive guide to help you prepare for the AWS Certified Solutions Archi
 ### 1. Compute Fundamentals
 
 #### Virtual Machines & Infrastructure
-- [AWS Outposts](./Compute/Virtual%20Machines%20&%20Infrastructure/AWS%20Outposts.md)
-- [AWS Wavelength](./Compute/Virtual%20Machines%20&%20Infrastructure/AWS%20Wavelength.md)
+- [AWS Outposts](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/AWS%20Outposts)
+- [AWS Wavelength](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/AWS%20Wavelength)
 - **EC2:**
-  - [Amazon EC2](./Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2.md)
-  - [Amazon EC2 - Auto Scaling](./Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Auto%20Scaling.md)
-  - [Amazon EC2 - Fleets](./Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Fleets.md)
-  - [Amazon EC2 - Monitoring](./Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Monitoring.md)
-  - [Amazon EC2 - Networking](./Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Networking.md)
-  - [Amazon EC2 - Security](./Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Security.md)
-- [EC2 Image Builder](./Compute/Virtual%20Machines%20&%20Infrastructure/EC2%20Image%20Builder.md)
+  - [Amazon EC2](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2)
+  - [Amazon EC2 - Auto Scaling](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Auto%20Scaling)
+  - [Amazon EC2 - Fleets](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Fleets)
+  - [Amazon EC2 - Monitoring](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Monitoring)
+  - [Amazon EC2 - Networking](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Networking)
+  - [Amazon EC2 - Security](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/EC2/Amazon%20EC2%20-%20Security)
+- [EC2 Image Builder](/docs/Compute/Virtual%20Machines%20&%20Infrastructure/EC2%20Image%20Builder)
 
 #### Serverless & Managed Compute
-- [AWS Lambda](./Compute/Serverless%20&%20Managed%20Compute/AWS%20Lambda.md)
-- [AWS Elastic Beanstalk](./Compute/Serverless%20&%20Managed%20Compute/AWS%20Elastic%20Beanstalk.md)
-- [AWS App Runner](./Compute/Serverless%20&%20Managed%20Compute/AWS%20App%20Runner.md)
+- [AWS Lambda](/docs/Compute/Serverless%20&%20Managed%20Compute/AWS%20Lambda)
+- [AWS Elastic Beanstalk](/docs/Compute/Serverless%20&%20Managed%20Compute/AWS%20Elastic%20Beanstalk)
+- [AWS App Runner](/docs/Compute/Serverless%20&%20Managed%20Compute/AWS%20App%20Runner)
 
 #### Scaling & Batch Processing
-- [AWS Auto Scaling](./Compute/Scaling%20&%20Batch%20Processing/AWS%20Auto%20Scaling.md)
-- [AWS Batch](./Compute/Scaling%20&%20Batch%20Processing/AWS%20Batch.md)
+- [AWS Auto Scaling](/docs/Compute/Scaling%20&%20Batch%20Processing/AWS%20Auto%20Scaling)
+- [AWS Batch](/docs/Compute/Scaling%20&%20Batch%20Processing/AWS%20Batch)
 
 #### Simplified Compute
-- [Amazon Lightsail](./Compute/Simplified%20Compute/Amazon%20Lightsail.md)
+- [Amazon Lightsail](/docs/Compute/Simplified%20Compute/Amazon%20Lightsail)
 
 ### 2. Networking and Content Delivery
 
 #### Virtual Networking & Connectivity
-- [Amazon VPC](./Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/Amazon%20VPC.md)
-- [AWS Direct Connect](./Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20Direct%20Connect.md)
-- [AWS Local Zones](./Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20Local%20Zones.md)
-- [AWS Transit Gateway](./Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20Transit%20Gateway.md)
-- [AWS VPN](./Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20VPN.md)
+- [Amazon VPC](/docs/Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/Amazon%20VPC)
+- [AWS Direct Connect](/docs/Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20Direct%20Connect)
+- [AWS Local Zones](/docs/Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20Local%20Zones)
+- [AWS Transit Gateway](/docs/Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20Transit%20Gateway)
+- [AWS VPN](/docs/Networking%20and%20Content%20Delivery/Virtual%20Networking%20&%20Connectivity/AWS%20VPN)
 
 #### CDN & DNS
-- [Amazon CloudFront](./Networking%20and%20Content%20Delivery/CDN%20&%20DNS/Amazon%20CloudFront.md)
-- [AWS Route 53](./Networking%20and%20Content%20Delivery/CDN%20&%20DNS/AWS%20Route%2053.md)
+- [Amazon CloudFront](/docs/Networking%20and%20Content%20Delivery/CDN%20&%20DNS/Amazon%20CloudFront)
+- [AWS Route 53](/docs/Networking%20and%20Content%20Delivery/CDN%20&%20DNS/AWS%20Route%2053)
 
 #### Hybrid Connectivity & Traffic Management
-- [AWS PrivateLink](./Networking%20and%20Content%20Delivery/Hybrid%20Connectivity/AWS%20PrivateLink.md)
-- [AWS Elastic Load Balancing](./Networking%20and%20Content%20Delivery/Traffic%20Management/AWS%20Elastic%20Load%20Balancing.md)
+- [AWS PrivateLink](/docs/Networking%20and%20Content%20Delivery/Hybrid%20Connectivity/AWS%20PrivateLink)
+- [AWS Elastic Load Balancing](/docs/Networking%20and%20Content%20Delivery/Traffic%20Management/AWS%20Elastic%20Load%20Balancing)
 
 ### 3. Storage & Database Fundamentals
 
 #### Object, Block, & File Storage
-- [Amazon S3](./Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20S3.md)
-- [Amazon Elastic Block Storage (EBS)](./Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20Elastic%20Block%20Storage.md)
-- [Amazon Elastic File System (EFS)](./Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20Elastic%20File%20System.md)
-- [Amazon FSx](./Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20FSx.md)
+- [Amazon S3](/docs/Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20S3)
+- [Amazon Elastic Block Storage (EBS)](/docs/Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20Elastic%20Block%20Storage)
+- [Amazon Elastic File System (EFS)](/docs/Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20Elastic%20File%20System)
+- [Amazon FSx](/docs/Storage/Object,%20Block,%20&%20File%20Storage/Amazon%20FSx)
 
 #### Backup & Disaster Recovery
-- [AWS Backup](./Storage/Backup%20&%20Disaster%20Recovery/AWS%20Backup.md)
-- [AWS Elastic Disaster Recovery (DRS)](./Storage/Backup%20&%20Disaster%20Recovery/AWS%20Elastic%20Disaster%20Recovery.md)
-- [AWS Storage Gateway](./Storage/Backup%20&%20Disaster%20Recovery/AWS%20Storage%20Gateway.md)
+- [AWS Backup](/docs/Storage/Backup%20&%20Disaster%20Recovery/AWS%20Backup)
+- [AWS Elastic Disaster Recovery (DRS)](/docs/Storage/Backup%20&%20Disaster%20Recovery/AWS%20Elastic%20Disaster%20Recovery)
+- [AWS Storage Gateway](/docs/Storage/Backup%20&%20Disaster%20Recovery/AWS%20Storage%20Gateway)
 
 #### Relational & Data Warehouse
-- [Amazon Aurora](./Database/Relational%20&%20Data%20Warehouse/Amazon%20Aurora.md)
-- [Amazon RDS](./Database/Relational%20&%20Data%20Warehouse/Amazon%20RDS.md)
-- [Amazon Redshift](./Database/Relational%20&%20Data%20Warehouse/Amazon%20Redshift.md)
+- [Amazon Aurora](/docs/Database/Relational%20&%20Data%20Warehouse/Amazon%20Aurora)
+- [Amazon RDS](/docs/Database/Relational%20&%20Data%20Warehouse/Amazon%20RDS)
+- [Amazon Redshift](/docs/Database/Relational%20&%20Data%20Warehouse/Amazon%20Redshift)
 
 #### NoSQL & Specialized Databases
-- [Amazon DocumentDB](./Database/NoSQL%20Databases/Amazon%20DocumentDB.md)
-- [Amazon DynamoDB](./Database/NoSQL%20Databases/Amazon%20DynamoDB.md)
-- [Amazon Keyspaces](./Database/NoSQL%20Databases/Amazon%20Keyspaces.md)
-- [Amazon ElastiCache](./Database/Specialized%20&%20In-Memory/Amazon%20ElastiCache.md)
-- [Amazon Neptune](./Database/Specialized%20&%20In-Memory/Amazon%20Neptune.md)
-- [Amazon Timestream](./Database/Specialized%20&%20In-Memory/Amazon%20Timestream.md)
+- [Amazon DocumentDB](/docs/Database/NoSQL%20Databases/Amazon%20DocumentDB)
+- [Amazon DynamoDB](/docs/Database/NoSQL%20Databases/Amazon%20DynamoDB)
+- [Amazon Keyspaces](/docs/Database/NoSQL%20Databases/Amazon%20Keyspaces)
+- [Amazon ElastiCache](/docs/Database/Specialized%20&%20In-Memory/Amazon%20ElastiCache)
+- [Amazon Neptune](/docs/Database/Specialized%20&%20In-Memory/Amazon%20Neptune)
+- [Amazon Timestream](/docs/Database/Specialized%20&%20In-Memory/Amazon%20Timestream)
 
 ### 4. Security, Identity, & Compliance Fundamentals
 
 #### Identity & Access Management
-- [Amazon Cognito](./Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/Amazon%20Cognito.md)
-- [AWS Directory Services](./Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/AWS%20Directory%20Services.md)
-- [AWS IAM Identity Center](./Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/AWS%20IAM%20Identity%20Center.md)
-- [AWS Identity and Access Management](./Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/AWS%20Identity%20and%20Access%20Management.md)
+- [Amazon Cognito](/docs/Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/Amazon%20Cognito)
+- [AWS Directory Services](/docs/Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/AWS%20Directory%20Services)
+- [AWS IAM Identity Center](/docs/Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/AWS%20IAM%20Identity%20Center)
+- [AWS Identity and Access Management](/docs/Security,%20Identity,%20and%20Compliance/Identity%20&%20Access%20Management/AWS%20Identity%20and%20Access%20Management)
 
 #### Data Protection & Encryption
-- [AWS Certificate Manager](./Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Certificate%20Manager.md)
-- [AWS CloudHSM](./Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20CloudHSM.md)
-- [AWS Key Management Service](./Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Key%20Management%20Service.md)
-- [AWS Macie](./Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Macie.md)
-- [AWS Secrets Manager](./Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Secrets%20Manager.md)
+- [AWS Certificate Manager](/docs/Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Certificate%20Manager)
+- [AWS CloudHSM](/docs/Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20CloudHSM)
+- [AWS Key Management Service](/docs/Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Key%20Management%20Service)
+- [AWS Macie](/docs/Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Macie)
+- [AWS Secrets Manager](/docs/Security,%20Identity,%20and%20Compliance/Data%20Protection%20&%20Encryption/AWS%20Secrets%20Manager)
 
 #### Network Security
-- [AWS Firewall Manager](./Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20Firewall%20Manager.md)
-- [AWS Network Firewall](./Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20Network%20Firewall.md)
-- [AWS Shield](./Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20Shield.md)
-- [AWS WAF](./Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20WAF.md)
+- [AWS Firewall Manager](/docs/Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20Firewall%20Manager)
+- [AWS Network Firewall](/docs/Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20Network%20Firewall)
+- [AWS Shield](/docs/Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20Shield)
+- [AWS WAF](/docs/Security,%20Identity,%20and%20Compliance/Network%20Security/AWS%20WAF)
 
 #### Compliance & Governance (Basics)
-- [AWS Artifact](./Security,%20Identity,%20and%20Compliance/Compliance%20&%20Governance/AWS%20Artifact.md)
-- [AWS Audit Manager](./Security,%20Identity,%20and%20Compliance/Compliance%20&%20Governance/AWS%20Audit%20Manager.md)
-- [AWS Resource Access Manager](./Security,%20Identity,%20and%20Compliance/Compliance%20&%20Governance/AWS%20Resource%20Access%20Manager.md)
+- [AWS Artifact](/docs/Security,%20Identity,%20and%20Compliance/Compliance%20&%20Governance/AWS%20Artifact)
+- [AWS Audit Manager](/docs/Security,%20Identity,%20and%20Compliance/Compliance%20&%20Governance/AWS%20Audit%20Manager)
+- [AWS Resource Access Manager](/docs/Security,%20Identity,%20and%20Compliance/Compliance%20&%20Governance/AWS%20Resource%20Access%20Manager)
 
 ---
 
@@ -110,103 +110,103 @@ _A comprehensive guide to help you prepare for the AWS Certified Solutions Archi
 ### 1. Management & Governance
 
 #### Monitoring & Observability
-- [Amazon CloudWatch](./Management%20and%20Governance/Monitoring%20&%20Observability/Amazon%20CloudWatch.md)
-- [AWS CloudTrail](./Management%20and%20Governance/Monitoring%20&%20Observability/AWS%20CloudTrail.md)
-- [AWS Personal Health Dashboard](./Management%20and%20Governance/Monitoring%20&%20Observability/AWS%20Personal%20Health%20Dashboard.md)
+- [Amazon CloudWatch](/docs/Management%20and%20Governance/Monitoring%20&%20Observability/Amazon%20CloudWatch)
+- [AWS CloudTrail](/docs/Management%20and%20Governance/Monitoring%20&%20Observability/AWS%20CloudTrail)
+- [AWS Personal Health Dashboard](/docs/Management%20and%20Governance/Monitoring%20&%20Observability/AWS%20Personal%20Health%20Dashboard)
 
 #### Infrastructure Automation
-- [AWS CloudFormation](./Management%20and%20Governance/Infrastructure%20Automation/AWS%20CloudFormation.md)
-- [AWS Cloud Development Kit (CDK)](./Management%20and%20Governance/Infrastructure%20Automation/AWS%20Cloud%20Development%20Kit.md)
+- [AWS CloudFormation](/docs/Management%20and%20Governance/Infrastructure%20Automation/AWS%20CloudFormation)
+- [AWS Cloud Development Kit (CDK)](/docs/Management%20and%20Governance/Infrastructure%20Automation/AWS%20Cloud%20Development%20Kit)
 
 #### Governance & Compliance (Advanced)
-- [AWS Config](./Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Config.md)
-- [AWS Control Tower](./Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Control%20Tower.md)
-- [AWS Organizations](./Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Organizations.md)
-- [AWS Service Catalog](./Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Service%20Catalog.md)
-- [AWS Service Quotas](./Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Service%20Quotas.md)
-- [AWS Well-Architected Tool](./Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Well-Architected%20Tool.md)
+- [AWS Config](/docs/Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Config)
+- [AWS Control Tower](/docs/Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Control%20Tower)
+- [AWS Organizations](/docs/Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Organizations)
+- [AWS Service Catalog](/docs/Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Service%20Catalog)
+- [AWS Service Quotas](/docs/Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Service%20Quotas)
+- [AWS Well-Architected Tool](/docs/Management%20and%20Governance/Governance%20&%20Compliance/AWS%20Well-Architected%20Tool)
 
 #### Operations & Optimization
-- [AWS Compute Optimizer](./Management%20and%20Governance/Operations%20&%20Optimization/AWS%20Compute%20Optimizer.md)
-- [AWS Systems Manager](./Management%20and%20Governance/Operations%20&%20Optimization/AWS%20Systems%20Manager.md)
-- [AWS Trusted Advisor](./Management%20and%20Governance/Operations%20&%20Optimization/AWS%20Trusted%20Advisor.md)
+- [AWS Compute Optimizer](/docs/Management%20and%20Governance/Operations%20&%20Optimization/AWS%20Compute%20Optimizer)
+- [AWS Systems Manager](/docs/Management%20and%20Governance/Operations%20&%20Optimization/AWS%20Systems%20Manager)
+- [AWS Trusted Advisor](/docs/Management%20and%20Governance/Operations%20&%20Optimization/AWS%20Trusted%20Advisor)
 
 ### 2. Application Integration
 
 #### API & Workflow Integration
-- [AWS AppSync](./Application%20Integration/API%20&%20Workflow%20Integration/AWS%20AppSync.md)
-- [AWS Step Functions](./Application%20Integration/API%20&%20Workflow%20Integration/AWS%20Step%20Functions.md)
+- [AWS AppSync](/docs/Application%20Integration/API%20&%20Workflow%20Integration/AWS%20AppSync)
+- [AWS Step Functions](/docs/Application%20Integration/API%20&%20Workflow%20Integration/AWS%20Step%20Functions)
 
 #### Messaging & Eventing
-- [Amazon EventBridge](./Application%20Integration/Messaging%20&%20Eventing/Amazon%20EventBridge.md)
-- [Amazon MQ](./Application%20Integration/Messaging%20&%20Eventing/Amazon%20MQ.md)
-- [Amazon SNS](./Application%20Integration/Messaging%20&%20Eventing/Amazon%20SNS.md)
-- [Amazon SQS](./Application%20Integration/Messaging%20&%20Eventing/Amazon%20SQS.md)
+- [Amazon EventBridge](/docs/Application%20Integration/Messaging%20&%20Eventing/Amazon%20EventBridge)
+- [Amazon MQ](/docs/Application%20Integration/Messaging%20&%20Eventing/Amazon%20MQ)
+- [Amazon SNS](/docs/Application%20Integration/Messaging%20&%20Eventing/Amazon%20SNS)
+- [Amazon SQS](/docs/Application%20Integration/Messaging%20&%20Eventing/Amazon%20SQS)
 
 ### 3. Cloud Financial Management
 
 #### Cost Allocation & Savings
-- [AWS Cost Allocation Tags](./Cloud%20Financial%20Management/Cost%20Allocation%20&%20Savings/AWS%20Cost%20Allocation%20Tags.md)
-- [Savings Plans](./Cloud%20Financial%20Management/Cost%20Allocation%20&%20Savings/Savings%20Plans.md)
+- [AWS Cost Allocation Tags](/docs/Cloud%20Financial%20Management/Cost%20Allocation%20&%20Savings/AWS%20Cost%20Allocation%20Tags)
+- [Savings Plans](/docs/Cloud%20Financial%20Management/Cost%20Allocation%20&%20Savings/Savings%20Plans)
 
 #### Cost Monitoring & Budgeting
-- [AWS Budgets](./Cloud%20Financial%20Management/Cost%20Monitoring%20&%20Budgeting/AWS%20Budgets.md)
-- [AWS Cost Explorer](./Cloud%20Financial%20Management/Cost%20Monitoring%20&%20Budgeting/AWS%20Cost%20Explorer.md)
+- [AWS Budgets](/docs/Cloud%20Financial%20Management/Cost%20Monitoring%20&%20Budgeting/AWS%20Budgets)
+- [AWS Cost Explorer](/docs/Cloud%20Financial%20Management/Cost%20Monitoring%20&%20Budgeting/AWS%20Cost%20Explorer)
 
 ### 4. Containers & Developer Tools
 
 #### Containers
 
 **Container Orchestration:**
-- [Amazon ECS](./Containers/Container%20Orchestration/Amazon%20ECS.md)
-- [Amazon EKS](./Containers/Container%20Orchestration/Amazon%20EKS.md)
+- [Amazon ECS](/docs/Containers/Container%20Orchestration/Amazon%20ECS)
+- [Amazon EKS](/docs/Containers/Container%20Orchestration/Amazon%20EKS)
 
 **Container Registry:**
-- [Amazon ECR](./Containers/Container%20Registry/Amazon%20ECR.md)
+- [Amazon ECR](/docs/Containers/Container%20Registry/Amazon%20ECR)
 
 #### Developer Tools
 
 **CICD & Code Quality:**
-- [Amazon CodeGuru](./Developer%20Tools/CICD%20&%20Code%20Quality/Amazon%20CodeGuru.md)
-- [AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline, AWS CodeArtifact](./Developer%20Tools/CICD%20&%20Code%20Quality/AWS%20CodeBuild,%20AWS%20CodeDeploy,%20AWS%20CodePipeline,%20AWS%20CodeArtifact.md)
+- [Amazon CodeGuru](/docs/Developer%20Tools/CICD%20&%20Code%20Quality/Amazon%20CodeGuru)
+- [AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline, AWS CodeArtifact](/docs/Developer%20Tools/CICD%20&%20Code%20Quality/AWS%20CodeBuild,%20AWS%20CodeDeploy,%20AWS%20CodePipeline,%20AWS%20CodeArtifact)
 
 **Observability & Testing:**
-- [AWS Fault Injection Simulator](./Developer%20Tools/Observability%20&%20Testing/AWS%20Fault%20Injection%20Simulator.md)
-- [AWS X-Ray](./Developer%20Tools/Observability%20&%20Testing/AWS%20X-Ray.md)
+- [AWS Fault Injection Simulator](/docs/Developer%20Tools/Observability%20&%20Testing/AWS%20Fault%20Injection%20Simulator)
+- [AWS X-Ray](/docs/Developer%20Tools/Observability%20&%20Testing/AWS%20X-Ray)
 
 ### 5. Frontend Web, Mobile & End User Computing
 
 #### Frontend Web and Mobile
 
 **API Management:**
-- [Amazon API Gateway](./Frontend%20Web%20and%20Mobile/API%20Management/Amazon%20API%20Gateway.md)
+- [Amazon API Gateway](/docs/Frontend%20Web%20and%20Mobile/API%20Management/Amazon%20API%20Gateway)
 
 **Development Platforms:**
-- [AWS Amplify](./Frontend%20Web%20and%20Mobile/Development%20Platforms/AWS%20Amplify.md)
-- [AWS Device Farm](./Frontend%20Web%20and%20Mobile/Development%20Platforms/AWS%20Device%20Farm.md)
+- [AWS Amplify](/docs/Frontend%20Web%20and%20Mobile/Development%20Platforms/AWS%20Amplify)
+- [AWS Device Farm](/docs/Frontend%20Web%20and%20Mobile/Development%20Platforms/AWS%20Device%20Farm)
 
 **User Engagement:**
-- [Amazon Pinpoint](./Frontend%20Web%20and%20Mobile/User%20Engagement/Amazon%20Pinpoint.md)
+- [Amazon Pinpoint](/docs/Frontend%20Web%20and%20Mobile/User%20Engagement/Amazon%20Pinpoint)
 
 #### End User Computing
-- [Amazon AppStream 2.0](./End%20User%20Computing/Amazon%20AppStream%202.0.md)
-- [Amazon WorkSpaces](./End%20User%20Computing/Amazon%20WorkSpaces.md)
+- [Amazon AppStream 2.0](/docs/End%20User%20Computing/Amazon%20AppStream%202.0)
+- [Amazon WorkSpaces](/docs/End%20User%20Computing/Amazon%20WorkSpaces)
 
 ### 6. Migration & Transfer
 
 #### File Transfer
-- [AWS Transfer Family](./Migration%20and%20Transfer/File%20Transfer/AWS%20Transfer%20Family.md)
+- [AWS Transfer Family](/docs/Migration%20and%20Transfer/File%20Transfer/AWS%20Transfer%20Family)
 
 #### Migration Tools
-- [AWS Application Discovery Service](./Migration%20and%20Transfer/Migration%20Tools/AWS%20Application%20Discovery%20Service.md)
-- [AWS Application Migration Service (MGN)](./Migration%20and%20Transfer/Migration%20Tools/AWS%20Application%20Migration%20Service.md)
-- [AWS Database Migration Service](./Migration%20and%20Transfer/Migration%20Tools/AWS%20Database%20Migration%20Service.md)
-- [AWS DataSync](./Migration%20and%20Transfer/Migration%20Tools/AWS%20DataSync.md)
-- [AWS Migration Evaluator](./Migration%20and%20Transfer/Migration%20Tools/AWS%20Migration%20Evaluator.md)
-- [AWS Migration Hub](./Migration%20and%20Transfer/Migration%20Tools/AWS%20Migration%20Hub.md)
+- [AWS Application Discovery Service](/docs/Migration%20and%20Transfer/Migration%20Tools/AWS%20Application%20Discovery%20Service)
+- [AWS Application Migration Service (MGN)](/docs/Migration%20and%20Transfer/Migration%20Tools/AWS%20Application%20Migration%20Service)
+- [AWS Database Migration Service](/docs/Migration%20and%20Transfer/Migration%20Tools/AWS%20Database%20Migration%20Service)
+- [AWS DataSync](/docs/Migration%20and%20Transfer/Migration%20Tools/AWS%20DataSync)
+- [AWS Migration Evaluator](/docs/Migration%20and%20Transfer/Migration%20Tools/AWS%20Migration%20Evaluator)
+- [AWS Migration Hub](/docs/Migration%20and%20Transfer/Migration%20Tools/AWS%20Migration%20Hub)
 
 #### Physical & Offline Migration
-- [AWS Snow Family](./Migration%20and%20Transfer/Physical%20&%20Offline%20Migration/AWS%20Snow%20Family.md)
+- [AWS Snow Family](/docs/Migration%20and%20Transfer/Physical%20&%20Offline%20Migration/AWS%20Snow%20Family)
 
 ---
 
@@ -215,62 +215,62 @@ _A comprehensive guide to help you prepare for the AWS Certified Solutions Archi
 ### 1. Analytics
 
 #### Data Integration & Management
-- [AWS Data Exchange](./Analytics/Data%20Integration%20&%20Management/AWS%20Data%20Exchange.md)
-- [AWS Glue](./Analytics/Data%20Integration%20&%20Management/AWS%20Glue.md)
-- [AWS Lake Formation](./Analytics/Data%20Integration%20&%20Management/AWS%20Lake%20Formation.md)
+- [AWS Data Exchange](/docs/Analytics/Data%20Integration%20&%20Management/AWS%20Data%20Exchange)
+- [AWS Glue](/docs/Analytics/Data%20Integration%20&%20Management/AWS%20Glue)
+- [AWS Lake Formation](/docs/Analytics/Data%20Integration%20&%20Management/AWS%20Lake%20Formation)
 
 #### Interactive Query & Batch Processing
-- [Amazon Athena](./Analytics/Interactive%20Query%20&%20Batch%20Processing/Amazon%20Athena.md)
-- [Amazon EMR](./Analytics/Interactive%20Query%20&%20Batch%20Processing/Amazon%20EMR.md)
+- [Amazon Athena](/docs/Analytics/Interactive%20Query%20&%20Batch%20Processing/Amazon%20Athena)
+- [Amazon EMR](/docs/Analytics/Interactive%20Query%20&%20Batch%20Processing/Amazon%20EMR)
 
 #### Streaming Data & Real-Time Analytics
-- [Amazon Data Firehose](./Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Data%20Firehose.md)
-- [Amazon Kinesis Data Streams](./Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Kinesis%20Data%20Streams.md)
-- [Amazon Managed Service for Apache Flink](./Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Managed%20Service%20for%20Apache%20Flink.md)
-- [Amazon Managed Streaming for Apache Kafka](./Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Managed%20Streaming%20for%20Apache%20Kafka.md)
+- [Amazon Data Firehose](/docs/Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Data%20Firehose)
+- [Amazon Kinesis Data Streams](/docs/Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Kinesis%20Data%20Streams)
+- [Amazon Managed Service for Apache Flink](/docs/Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Managed%20Service%20for%20Apache%20Flink)
+- [Amazon Managed Streaming for Apache Kafka](/docs/Analytics/Streaming%20Data%20&%20Real-Time%20Analytics/Amazon%20Managed%20Streaming%20for%20Apache%20Kafka)
 
 #### Visualization & Search
-- [Amazon OpenSearch](./Analytics/Visualization%20&%20Search/Amazon%20OpenSearch.md)
-- [Amazon QuickSight](./Analytics/Visualization%20&%20Search/Amazon%20QuickSight.md)
+- [Amazon OpenSearch](/docs/Analytics/Visualization%20&%20Search/Amazon%20OpenSearch)
+- [Amazon QuickSight](/docs/Analytics/Visualization%20&%20Search/Amazon%20QuickSight)
 
 ### 2. Machine Learning
 
 #### Computer Vision & Document Processing
-- [Amazon Rekognition](./Machine%20Learning/Computer%20Vision%20&%20Document%20Processing/Amazon%20Rekognition.md)
-- [Amazon Textract](./Machine%20Learning/Computer%20Vision%20&%20Document%20Processing/Amazon%20Textract.md)
+- [Amazon Rekognition](/docs/Machine%20Learning/Computer%20Vision%20&%20Document%20Processing/Amazon%20Rekognition)
+- [Amazon Textract](/docs/Machine%20Learning/Computer%20Vision%20&%20Document%20Processing/Amazon%20Textract)
 
 #### ML Platform
-- [Amazon SageMaker](./Machine%20Learning/ML%20Platform/Amazon%20SageMaker.md)
+- [Amazon SageMaker](/docs/Machine%20Learning/ML%20Platform/Amazon%20SageMaker)
 
 #### Natural Language & Speech
-- [Amazon Comprehend](./Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Comprehend.md)
-- [Amazon Lex](./Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Lex.md)
-- [Amazon Transcribe](./Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Transcribe.md)
-- [Amazon Translate](./Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Translate.md)
+- [Amazon Comprehend](/docs/Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Comprehend)
+- [Amazon Lex](/docs/Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Lex)
+- [Amazon Transcribe](/docs/Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Transcribe)
+- [Amazon Translate](/docs/Machine%20Learning/Natural%20Language%20&%20Speech/Amazon%20Translate)
 
 #### Search & Personalization
-- [Amazon Kendra](./Machine%20Learning/Search%20&%20Personalization/Amazon%20Kendra.md)
-- [Amazon Personalize](./Machine%20Learning/Search%20&%20Personalization/Amazon%20Personalize.md)
+- [Amazon Kendra](/docs/Machine%20Learning/Search%20&%20Personalization/Amazon%20Kendra)
+- [Amazon Personalize](/docs/Machine%20Learning/Search%20&%20Personalization/Amazon%20Personalize)
 
 #### Speech Synthesis
-- [Amazon Polly](./Machine%20Learning/Speech%20Synthesis/Amazon%20Polly.md)
+- [Amazon Polly](/docs/Machine%20Learning/Speech%20Synthesis/Amazon%20Polly)
 
 ### 3. Business Applications
 
 #### Contact Center & Email
-- [Amazon Connect](./Business%20Applications/Contact%20Center%20&%20Email/Amazon%20Connect.md)
-- [Amazon SES](./Business%20Applications/Contact%20Center%20&%20Email/Amazon%20SES.md)
+- [Amazon Connect](/docs/Business%20Applications/Contact%20Center%20&%20Email/Amazon%20Connect)
+- [Amazon SES](/docs/Business%20Applications/Contact%20Center%20&%20Email/Amazon%20SES)
 
 #### Voice & Collaboration
-- [AWS Alexa for Business](./Business%20Applications/Voice%20&%20Collaboration/AWS%20Alexa%20for%20Business.md)
+- [AWS Alexa for Business](/docs/Business%20Applications/Voice%20&%20Collaboration/AWS%20Alexa%20for%20Business)
 
 ### 4. Internet of Things & Media Services
 
 #### Internet of Things
-- [AWS IoT Services](./Internet%20of%20Things/AWS%20IoT%20Services.md)
+- [AWS IoT Services](/docs/Internet%20of%20Things/AWS%20IoT%20Services)
 
 #### Media Services
-- [Amazon Kinesis Video Streams](./Media%20Services/Amazon%20Kinesis%20Video%20Streams.md)
+- [Amazon Kinesis Video Streams](/docs/Media%20Services/Amazon%20Kinesis%20Video%20Streams)
 
 ### 5. Blockchain
-- [Amazon Managed Blockchain](./Blockchain/Amazon%20Managed%20Blockchain.md)
+- [Amazon Managed Blockchain](/docs/Blockchain/Amazon%20Managed%20Blockchain)
